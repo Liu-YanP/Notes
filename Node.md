@@ -40,7 +40,7 @@ npm 是nodejs的包管理器，用于node插件的管理；
 
 - `vue init webpack projectNmae`: 创建项目，webpack为模板
 
-![image-20200221131501150](C:\Users\liu\AppData\Roaming\Typora\typora-user-images\image-20200221131501150.png)
+![image-20200221131501150](Node.assets/image-20200221131501150.png)
 
 ### 向项目中添加包
 

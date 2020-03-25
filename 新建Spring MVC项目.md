@@ -10,11 +10,11 @@
 
 - 右键单击项目，选择`Add Frameworks Support`。然后选择`spring mvc`，为项目添加spring mvc框架。在`web-inf`目录下会出现`applicationContext.xml`和`dispatcher-servlet.xml`文件
 
-  ![image-20200223134929622](C:\Users\liu\AppData\Roaming\Typora\typora-user-images\image-20200223134929622.png)
+  ![image-20200223134929622](新建Spring MVC项目.assets/image-20200223134929622.png)
 
 - 在maven的pom文件中添加`spring mvc`依赖。
 
-  ![image-20200223143909476](C:\Users\liu\AppData\Roaming\Typora\typora-user-images\image-20200223143909476.png)
+  ![image-20200223143909476](新建Spring MVC项目.assets/image-20200223143909476.png)
 
 ```xml
 <!--测试-->

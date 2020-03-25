@@ -15,7 +15,7 @@
 
 ### RPC调用过程
 
-![image-20200224151038875](C:\Users\liu\AppData\Roaming\Typora\typora-user-images\image-20200224151038875.png)
+![image-20200224151038875](RPC协议.assets/image-20200224151038875.png)
 
 (1) 客户端（client）以本地调用方式（即以接口的方式）调用服务；
 (2) 客户端存根（client stub）接收到调用后，负责将方法、参数等组装成能够进行网络传输的消息体（将消息体对象序列化为二进制）；
